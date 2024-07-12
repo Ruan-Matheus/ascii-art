@@ -42,4 +42,4 @@ def to_ascii(image_path: str, size: tuple[int, int] = None) -> None:
 
 
 if __name__ == "__main__":
-    to_ascii("image.jgp", (800, 600))
+    to_ascii("image.jpg", (800, 600))
